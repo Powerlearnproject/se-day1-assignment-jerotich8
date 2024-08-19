@@ -70,5 +70,7 @@ its importance in interacting with AI models;
  
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 "Tell me something"
+-improve it by making it clear, specific, and concise.
 "tell me today's weather"
+ -Explain why the improved prompt is more effective
 the prompt specifies the topic of interest which is weather and it is clear about the date of the weather.
