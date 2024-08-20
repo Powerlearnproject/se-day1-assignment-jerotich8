@@ -51,10 +51,11 @@ Strategies for Overcoming Challenges:
 -regular reassessment of project goals and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-- Unit Testing: Testing individual components or modules of software.
+  - Unit Testing: Testing individual components or modules of software.
   - Integration Testing: Testing interactions between different components or subsystems.
   - System Testing: Testing the entire software system as a whole.
   - Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+
 Importance of Quality Control:
 Its measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
 
@@ -63,6 +64,7 @@ Its measures such as code reviews, automated testing, and continuous integration
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the practice of designing and refining input prompts to guide the behavior and outputs of AI language models.
+
 its importance in interacting with AI models;
  .Creativity and Detail: By providing specific instructions or context, users can guide the model to produce more creative or detailed responses, which can be particularly useful in tasks like content creation or brainstorming
  .Facilitating Human-AI Collaboration: In conversational AI, well-constructed prompts can guide the flow of conversation, making interactions more natural and productive.
@@ -70,7 +72,9 @@ its importance in interacting with AI models;
  
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 "Tell me something"
+
 -improve it by making it clear, specific, and concise.
 "tell me today's weather"
+
  -Explain why the improved prompt is more effective
 the prompt specifies the topic of interest which is weather and it is clear about the date of the weather.
